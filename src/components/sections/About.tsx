@@ -51,6 +51,10 @@ export function About() {
 
           <div className="mt-12 grid grid-cols-2 gap-8">
             <div className="glass p-6 rounded-2xl">
+              <span className="text-3xl font-bold text-white block mb-1">PSC</span>
+              <span className="text-gray-500 text-sm uppercase tracking-wider">Vakum Joymontop govt. primary School</span>
+            </div>
+            <div className="glass p-6 rounded-2xl">
               <span className="text-3xl font-bold text-white block mb-1">SSC</span>
               <span className="text-gray-500 text-sm uppercase tracking-wider">Joymontop High School</span>
             </div>
