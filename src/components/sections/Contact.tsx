@@ -2,11 +2,11 @@ import { motion } from 'motion/react';
 import { Mail, MessageSquare, Send, Facebook, Github, Linkedin, Instagram, Youtube } from 'lucide-react';
 
 const socials = [
-  { name: 'Facebook', icon: Facebook, href: '#', color: 'hover:text-blue-600' },
-  { name: 'GitHub', icon: Github, href: '#', color: 'hover:text-white' },
-  { name: 'LinkedIn', icon: Linkedin, href: '#', color: 'hover:text-blue-500' },
-  { name: 'Instagram', icon: Instagram, href: '#', color: 'hover:text-pink-500' },
-  { name: 'YouTube', icon: Youtube, href: '#', color: 'hover:text-red-600' },
+  { name: 'Facebook', icon: Facebook, href: 'https://www.facebook.com/Roton595', color: 'hover:text-blue-600' },
+  { name: 'GitHub', icon: Github, href: 'https://github.com/Rotonvai', color: 'hover:text-white' },
+  { name: 'LinkedIn', icon: Linkedin, href: 'https://www.linkedin.com/in/md-mahfujor-rahman-roton-34814b3b8/', color: 'hover:text-blue-500' },
+  { name: 'Instagram', icon: Instagram, href: 'https://www.instagram.com/paradoxical_roton/', color: 'hover:text-pink-500' },
+  { name: 'YouTube', icon: Youtube, href: 'https://www.youtube.com/@MrBonGTuBE', color: 'hover:text-red-600' },
 ];
 
 export function Contact() {
