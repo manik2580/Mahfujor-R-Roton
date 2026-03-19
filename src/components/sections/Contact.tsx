@@ -32,7 +32,7 @@ export function Contact() {
                 </div>
                 <div>
                   <span className="text-xs uppercase tracking-widest text-gray-500 block mb-1">Email Me</span>
-                  <span className="text-lg font-medium">roton@example.com</span>
+                  <span className="text-lg font-medium">mdhafizurrmanik@gmail.com</span>
                 </div>
               </div>
               <div className="flex items-center gap-6 p-6 glass rounded-2xl group hover:bg-white/5 transition-all">
