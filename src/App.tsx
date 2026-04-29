@@ -15,6 +15,7 @@ import { Poetry } from './components/sections/Poetry';
 import { Stories } from './components/sections/Stories';
 import { Blog } from './components/sections/Blog';
 import { Websites } from './components/sections/Websites';
+import { Posters } from './components/sections/poster';
 import { Courses } from './components/sections/Courses';
 import { Awards } from './components/sections/Awards';
 import { Contact } from './components/sections/Contact';
@@ -101,6 +102,7 @@ export default function App() {
         <Stories />
         <Blog />
         <Websites />
+        <Posters />
         <Courses />
         <Awards />
         <Contact />

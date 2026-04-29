@@ -12,6 +12,7 @@ export const searchData: SearchItem[] = [
   { title: 'Services', category: 'Navigation', href: '#services', description: 'What I can do for you' },
   { title: 'Poetry', category: 'Navigation', href: '#poetry', description: 'My literary works' },
   { title: 'Blog', category: 'Navigation', href: '#blog', description: 'Insights and thoughts' },
+  { title: 'Posters', category: 'Navigation', href: '#posters', description: 'Poster gallery and creative works' },
   { title: 'Courses', category: 'Navigation', href: '#courses', description: 'My educational journey' },
   { title: 'Contact', category: 'Navigation', href: '#contact', description: 'Get in touch' },
 

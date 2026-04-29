@@ -9,6 +9,7 @@ const navLinks = [
   { name: 'Services', href: '#services' },
   { name: 'Poetry', href: '#poetry' },
   { name: 'Blog', href: '#blog' },
+  // { name: 'Posters', href: '#posters' },
   { name: 'Courses', href: '#courses' },
 ];
 
@@ -262,4 +263,3 @@ export function Navbar() {
     </nav>
   );
 }
-
