@@ -22,9 +22,9 @@ const certificates = [
     image: 'https://rotonvai.github.io/Roton.info/certificate/certificate3.jpg'
   },
    { 
-    title: 'Sheikh Russel Dibos', 
-    issuer: 'Government of Bangladesh', 
-    year: '2022',
+    title: 'Python programming', 
+    issuer: 'ALfaaX Platinum', 
+    year: '2024',
     image: 'https://raw.githubusercontent.com/manik2580/ALAP/refs/heads/main/certificate4.jpg'
   },
 ];
