@@ -12,12 +12,12 @@ const posters = [
     download: 'https://i.postimg.cc/5NvLKSRs/image.png',
   },
   {
-    title: 'Comming Soon',
+    title: 'Grand Theft Auto',
     category: 'Emotional Poster',
     year: '2026',
-    description: 'A clean emotional billboard-style poster design made for a special birthday moment.',
-    image: 'https://your-link.com/poster2.png',
-    download: 'https://your-link.com/poster2.png',
+    description: 'Explore a massive open world filled with dangerous streets, fast cars, hidden secrets, iconic missions, and unforgettable characters. From Grove Street to Las Venturas, every corner of San Andreas has its own vibe, story, and madness waiting for you.',
+    image: 'https://i.postimg.cc/VNSGFHss/image.png',
+    download: 'https://i.postimg.cc/VNSGFHss/image.png',
   },
   {
     title: 'Comming Soon',
