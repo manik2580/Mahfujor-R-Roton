@@ -12,7 +12,7 @@ const posters = [
     download: 'https://i.postimg.cc/5NvLKSRs/image.png',
   },
   {
-    title: 'Grand Theft Auto',
+    title: 'Grand Theft Auto IV',
     category: 'Emotional Poster',
     year: '2026',
     description: '',
